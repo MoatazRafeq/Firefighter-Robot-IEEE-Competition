@@ -85,7 +85,7 @@ The robot uses a **custom mechanical chassis** focused on:
 - AI‑based fire recognition
 - IoT monitoring
 - Improved mobility algorithms
-- Stronger fire suppression system
+
 
 ---
 
